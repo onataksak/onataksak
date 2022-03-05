@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @onataksak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello! (Merhaba 👋), I am @onataksak
+
+I am a Freelance developer interested in web programming!
+
+You can visit my portfolio site [nurettinonataksak.space](nurettinonataksak.space)
+
 
 <!---
 onataksak/onataksak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
