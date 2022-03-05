@@ -2,7 +2,7 @@ Hello! (Merhaba 👋), I am @onataksak
 
 I am a Freelance developer interested in web programming!
 
-You can visit my portfolio site [nurettinonataksak.space](nurettinonataksak.space)
+You can visit my portfolio site [nurettinonataksak.space](http://www.nurettinonataksak.space)
 
 
 <!---
